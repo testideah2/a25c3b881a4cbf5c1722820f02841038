@@ -3,11 +3,11 @@
         xmlns:gap   = "http://phonegap.com/ns/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android" 
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
-        id          = "COLTERY"
+        id          = "com.cotlery.app"
         versionCode = "10"
-        version     = "1.2.0">
+        version     = "1.3.0">
 
-    <name>ТЕСТ. cotlery.wixsite.com</name>
+    <name>ТЕСТ. COTLERY</name>
 
     <description>
         Приложение для прсомотра фильмов и сериалов бесплатно, без платной подписки
